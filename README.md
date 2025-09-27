@@ -1,4 +1,4 @@
-# 👨‍💻 [Your Full Name]
+# 👩‍💻 Ishika Dubey
 
 > 🎓 Student | 🌐 Specialization in Artificial Intelligence & Machine Learning | 👁️ Computer Vision Enthusiast  
 
@@ -29,14 +29,14 @@ I believe in continuous learning, hands-on experimentation, and bridging the gap
 
 ## 📂 Featured Projects
 
-### 🔹 [Face Recognition System](https://github.com/your-username/face-recognition-project)
+### 🔹 [Real-Time Video Analysis](https://github.com/Ishuthecoder/Real_Time_Video_Analysis)
 - Detects **face, age, gender, and emotion** in real time  
 - Built with **OpenCV + Deep Learning models**  
 - Applications: **security systems, healthcare monitoring, personalized experiences**  
 
 ---
 
-### 🔹 [Medical Diagnosis Assistant](https://github.com/your-username/medical-diagnosis-assistant)
+### 🔹 [Human Disease Detection System](https://github.com/Ishuthecoder/Human_Disease_Detection_System)
 - Accepts **medical images** and predicts diseases with **accuracy & confidence scores**  
 - Integrated **AI chatbot** for personalized health recommendations  
 - Users can **save reports** for future reference  
@@ -44,7 +44,7 @@ I believe in continuous learning, hands-on experimentation, and bridging the gap
 
 ---
 
-### 🔹 [Environment Robo](https://github.com/your-username/environment-robo)
+### 🔹 [Rober – Environment Monitoring System](https://github.com/Ishuthecoder/Rober)
 - Detects **humidity, air moisture, temperature, and predicts rainfall**  
 - Provides **crop & farming recommendations** via chatbot  
 - Supports **smart agriculture practices**  
@@ -64,18 +64,17 @@ I believe in continuous learning, hands-on experimentation, and bridging the gap
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishuthecoder&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishuthecoder&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishuthecoder)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ishikaportfolio-2inx.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-dubey-27491a257/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeyishika965@gmail.com)  
 
 ---
 
 ⭐️ *Exploring AI every day — let’s build something impactful together!*  
-
-
-⭐️ Exploring AI every day — let’s collaborate to build impactful projects!
