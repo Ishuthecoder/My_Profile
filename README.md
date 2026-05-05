@@ -1,17 +1,18 @@
 # 👩‍💻 Ishika Dubey
 
-> 🎓 Student | 🌐 Specialization in Artificial Intelligence & Machine Learning | 👁️ Computer Vision Enthusiast  
+> 🎓 Student | 🌐 Specialization in Artificial Intelligence & Machine Learning | 👁️ Computer Vision Engineer  
 
-I am passionate about building intelligent systems that combine **AI, ML, and Computer Vision** to solve real-world problems.  
-I believe in continuous learning, hands-on experimentation, and bridging the gap between **AI research and practical applications**.  
+I am passionate about building intelligent systems that combine **AI, Machine Learning, and Computer Vision** to solve real-world problems.  
+I focus on creating **end-to-end AI pipelines** — from data processing to model deployment and user interaction.  
 
 ---
 
 ## 🚀 About Me
 - 📚 Pursuing specialization in **Artificial Intelligence & Machine Learning**  
 - 🤖 Interested in **Deep Learning, Computer Vision, and AI Agents**  
-- 💡 Always exploring new technologies and working on impactful projects  
-- 🌱 Open to collaborations in **AI-driven applications**  
+- ⚙️ Experienced in building **scalable AI pipelines and systems**  
+- 💡 Actively working on **real-world AI applications during internships**  
+- 🌱 Open to collaborations in **AI-driven solutions**  
 
 ---
 
@@ -23,42 +24,68 @@ I believe in continuous learning, hands-on experimentation, and bridging the gap
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 [Real-Time Video Analysis](https://github.com/Ishuthecoder/Real_Time_Video_Analysis)
-- Detects **face, age, gender, and emotion** in real time  
-- Built with **OpenCV + Deep Learning models**  
-- Applications: **security systems, healthcare monitoring, personalized experiences**  
-
----
-
 ### 🔹 [Human Disease Detection System](https://github.com/Ishuthecoder/Human_Disease_Detection_System)
-- Accepts **medical images** and predicts diseases with **accuracy & confidence scores**  
-- Integrated **AI chatbot** for personalized health recommendations  
-- Users can **save reports** for future reference  
-- Aim: **assist doctors and patients with preliminary analysis**  
+*(Academic Project)*  
+
+- Accepts **medical images (X-ray, skin, fracture)** and predicts diseases  
+- Provides **confidence scores and ROI detection**  
+- Integrated **AI chatbot (BioGPT / LLaMA)** for medical queries  
+- Includes **user history tracking** for reports and interactions  
+- Built a **complete pipeline: model → backend → frontend → LLM integration**  
 
 ---
 
-### 🔹 [Rober – Environment Monitoring System](https://github.com/Ishuthecoder/Rober)
-- Detects **humidity, air moisture, temperature, and predicts rainfall**  
-- Provides **crop & farming recommendations** via chatbot  
-- Supports **smart agriculture practices**  
+### 🔹 HITL Annotation Review System *(Internship Project – Wastefull Insights)*  
+
+- Built a **Human-in-the-Loop system** for segmentation dataset correction  
+- Edit, delete, and draw **polygon annotations interactively**  
+- Batch-based review workflow with **approval system**  
+- Maintains **corrections separately without modifying original dataset**  
+- Final merge generates a clean **COCO dataset**  
+
+**Impact:** Improved dataset quality → better model performance  
+
+---
+
+### 🔹 Material & Colour Segmentation Pipeline *(Internship Project – Wastefull Insights)*  
+
+- Developed **YOLOv8-based dual model pipeline** (Material + Colour)  
+- Implemented **IoU-based matching with confidence scoring**  
+- Optimized with **batch GPU inference + async processing**  
+- Automatic **COCO JSON update system**  
+- Supports **resume, fault tolerance, and large-scale datasets**  
 
 ---
 
 ## 💼 Internship Experience
 
-**AI Agent Developer – Clone Futura Pvt. Ltd.**  
-- Designed & developed **AI Agents** for real-world use cases:  
-  - 🧾 **Amazon Invoice Extractor** – structured data from invoices  
+### 🤖 AI Agent Developer — Clone Futura Pvt. Ltd.  
+
+- Designed & developed **AI Agents** for real-world automation:  
+  - 🧾 **Amazon Invoice Extractor** – structured data extraction  
   - 📚 **Education Information Extractor** – automated knowledge retrieval  
-  - 👥 **Employee Management Agent** – streamlined HR processes  
-- Gained hands-on experience with **AI-powered automation** and **practical deployment**  
+  - 👥 **Employee Management Agent** – HR workflow automation  
+- Worked on **LLM integration, automation pipelines, and deployment**  
+- Gained hands-on experience with **production-level AI systems**  
+
+---
+
+### 👁️ Computer Vision Intern — Wastefull Insights  
+
+- Built **annotation correction system (HITL)**  
+- Developed **material & colour segmentation pipeline**  
+- Improved **dataset quality and model accuracy**  
+- Designed **scalable COCO-based pipelines for large datasets**  
+- Worked on **optimization, batching, and efficient inference systems**  
 
 ---
 
@@ -77,4 +104,4 @@ I believe in continuous learning, hands-on experimentation, and bridging the gap
 
 ---
 
-⭐️ *Exploring AI every day — let’s build something impactful together!*  
+⭐️ *Exploring AI every day — building systems that create real impact.*
